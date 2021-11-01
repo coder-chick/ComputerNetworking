@@ -1,1 +1,12 @@
+# Weekly Quiz - Quiz 8
 
+This week's topic is IP addresses and Trace Routing
+
+## Setup
+1. Download Wireshark
+2. Open the ip-ethereal-trace-1 file in WireShark
+3. Follow the steps and instructions in the WireShark Lab and the Trace Routing Questions
+
+## Author
+* Semaa Amin
+* in collaboration with classmates on some of the Group Questions
