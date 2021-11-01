@@ -1,6 +1,7 @@
 # Weekly Quiz - Quiz 8
 
 This week's topic is IP addresses and Trace Routing
+CS 5700 @ Northeastern University SFBA
 
 ## Setup
 1. Download Wireshark
@@ -10,3 +11,9 @@ This week's topic is IP addresses and Trace Routing
 ## Author
 * Semaa Amin
 * in collaboration with classmates on some of the Group Questions
+
+## Disclaimer
+
+* Please do not copy any answers without permission
+
+
